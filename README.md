@@ -1,4 +1,4 @@
-# complexNetworkAnalysis
+# complexNetworkCentrality
 Academic work from Complex Networks discipline at PESC/COPPE/UFRJ
 
 Here, I choosed three graphs to get centrality measures in this work:
